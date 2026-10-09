@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/exception/AuthException.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/controller/RegistroController.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/model/Aspirante.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/service/InventarioService.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/model/Usuario.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/config/CredentialsDb.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/resources/css/styles.css</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/repository/AspiranteRepository.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/utils/SceneManager.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/exception/AuthErrorCode.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/service/UsuarioService.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/Main.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/controller/InventarioController.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/controller/LoginController.java</file>
+            <file>file:/C:/Users/Informatica/Desktop/John%20Sipac/Cuarto%20Bimestre/inventary-system/src/main/java/com/johnlab/inventarysystem/repository/UsuarioRepository.java</file>
+        </group>
+    </open-files>
+</project-private>
